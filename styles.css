@@ -19,9 +19,8 @@ header {
     text-align: center;
     background: lightblue;
     background-size: cover;
-    padding: 20px,0px,0px,0px
-    text: blue
-    font-size: 150px;
+    padding: 20px,0px,0px,0px;
+    text: blue;
 }
  .class1 {
     color: rgb:(0,20,182);
@@ -37,4 +36,5 @@ header {
 }
 h1 {
     text-align: center;
+    font-size: 150px;
 }
