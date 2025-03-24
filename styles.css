@@ -26,3 +26,9 @@ header {
  .class1 {
     color: rgb:(0,20,182);
   }
+p {
+    text-align: center;
+}
+img {
+    align: center;
+}
