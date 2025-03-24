@@ -7,3 +7,21 @@ h2 {
   font-style: normal;
   text-align: center; 
 }
+ul {
+    padding: 10px;
+}
+li {
+    display: inline;
+    padding: 0px, 10px, 0px, 10px;
+}
+header {
+    text-align: center;
+    background: lightblue;
+    background-size: cover;
+    padding: 20px,0px,0px,0px
+    text: blue
+    font-size: 150px;
+}
+ .class1 {
+    color: rgb:(0,20,182);
+  }
