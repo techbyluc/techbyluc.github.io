@@ -30,6 +30,9 @@ p {
 }
 img {
     align: center;
+    margin: 40px 0px 0px 0px;
+    border-radius: 20px;
+    border-color: rgb(12, 106, 138);
 }
 header {
     text-align: center;
