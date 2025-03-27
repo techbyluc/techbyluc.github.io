@@ -1,44 +1,50 @@
 body {
-    background-color: lightskyblue;
-    text-align: center;
+  background-color: lightskyblue;
+  text-align: center;
 }
 h2 {
-   font-family: "Chewy", system-ui;
-  font-weight: 400;
-  font-style: normal;
-  text-align: center; 
+ font-family: "Chewy", system-ui;
+font-weight: 400;
+font-style: normal;
+text-align: center; 
 }
 ul {
-    padding: 10px;
+  padding: 10px;
 }
 li {
-    display: inline;
-    padding: 0px, 10px, 0px, 10px;
+  display: inline;
+  padding: 0px, 10px, 0px, 10px;
 }
 header {
-    text-align: center;
-    background: lightblue;
-    padding: 20px,0px,0px,0px;
-    text: blue;
+  text-align: center;
+  background: lightblue;
+  padding: 20px,0px,0px,0px;
 }
- .class1 {
-    color: blue;
-     font-family: "Chewy", system-ui;
+
+p {
+  text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 7px solid white;
+  border-radius: 20px;
+  border-color: rgb(12, 106, 138);
+}
+h1 {
+  text-align: center;
+  font-size: 35px;
+  font-family: "Slackey", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color:darkslateblue;
+}
+a {
+  font-family: "Chewy", system-ui;
   font-weight: 400;
   font-style: normal;
   text-align: center; 
-  }
-p {
-    text-align: center;
+  color: blue;
 }
-img {
-    align: center;
-    margin: 40px 0px 0px 0px;
-    border: 7px solid white;
-    border-radius: 20px;
-    border-color: rgb(12, 106, 138);
-}
-h1 {
-    text-align: center;
-    font-size: 50px;
-}
+
